@@ -1,2 +1,2 @@
 # JS_Boot
-Site desenvolvido com JavaScript e Bootstrap.
+Site simples desenvolvido com JavaScript e Bootstrap.
